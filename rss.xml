@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[MisterLudden]]></title>
         <description><![CDATA[MisterLudden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/misterludden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 16:07:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 16:09:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/misterludden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Presidents of the United Space: Phase 1]]></title>
+            <description><![CDATA[<article><h1>Presidents of the United Space: Phase 1</h1><p>Presidents of the United Space is an ongoing sci-fi comic project featuring past presidents fighting for a future utopia. I'm working on it with my wife Ginger through our comic/art studio Chris & Gin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7d4dcfda9be3b6d60ad93f22452357e14606c3a.png"></article>]]></description>
+            <link>https://thegrid.ai/misterludden/3fae4d2a-5dea-428c-981f-83e1b0980395/index.html</link>
+            <guid isPermaLink="false">3fae4d2a-5dea-428c-981f-83e1b0980395</guid>
+            <pubDate>Wed, 10 Feb 2016 16:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chris & Gin]]></title>
-            <description><![CDATA[<article><h1>Chris & Gin</h1><p>We're a comics super duo from Indianapolis, Indiana! Want a physical product? Visit our store at http://chrisandgin.com/store</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db3722e4363b0be11456248cb6c7ec5dffae6a1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Chris & Gin</h1><p>We're a comics super duo from Indianapolis, Indiana! Want a physical product? Visit our store at http://chrisandgin.com/store</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa1926bc95554190304e1701b5eb353922367c6c.png"></article>]]></description>
             <link>https://gumroad.com/chrisandgin</link>
             <guid isPermaLink="false">9d579e0d-40d4-421a-8499-dbe243bfd592</guid>
             <pubDate>Sun, 31 Jan 2016 16:07:36 GMT</pubDate>
